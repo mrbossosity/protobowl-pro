@@ -7,10 +7,9 @@ The live, fast-paced nature of Protobowl simulates tournament play, which is use
 
 Protobowl Pro runs in the background of any Protobowl session. Each time you buzz in with a correct answer, the program will log the tossup, the answerline, where you buzzed, and the sentence preceding your buzz. The regular expressions used to split sentences are usually correct, but they can get thrown off by strings like "Mr. Darcy" and "Robert E. Lee".
 
-The interface has only two buttons: one which allows you to export the entire session log as a.txt file to study later, and one which allows you to export the clues preceding your buzzes and their corresponding answers in a .txt file which can be imported into Anki. 
-
-Export Session Log:
-
-``
-
-Export for Anki:
+The interface has only two buttons: one which allows you to export the entire session log as a.txt file to study later, and one which allows you to export the clues preceding your buzzes and their corresponding answers in a .txt file which can be easily imported into Anki. Such a file looks like this:
+```
+Joseph Warren was killed during this battle.; Battle of Bunker Hill
+This monarch faced Wyatt's Rebellion.; Queen Mary I
+```
+Each line is a card; the clue (preceding the semicolon) becomes the front, and the answer (following the semicolon) becomes the back. Ideally, you could export all of your Protobowl sessions and import cards into a master "Protobowl" deck. 
