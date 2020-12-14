@@ -12,4 +12,6 @@ The interface has only two buttons: one which allows you to export the entire se
 Joseph Warren was killed during this battle.; Battle of Bunker Hill
 This monarch faced Wyatt's Rebellion.; Queen Mary I
 ```
-Each line is a card; the clue (preceding the semicolon) becomes the front, and the answer (following the semicolon) becomes the back. Ideally, you could export all of your Protobowl sessions and import cards into a master "Protobowl" deck. 
+Each line becomes a card; the clue (preceding the semicolon) becomes the front, and the answer (following the semicolon) becomes the back. Ideally, you could export all of your Protobowl sessions and import cards into a master "Protobowl" deck!
+
+I don't have a Chrome Developer Account, so grab the source code from the Releases section and unpack it as a folder.
