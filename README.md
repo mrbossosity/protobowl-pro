@@ -16,4 +16,7 @@ This monarch faced Wyatt's Rebellion.; Queen Mary I
 Each line becomes a card; the clue (preceding the semicolon) becomes the front, and the answer (following the semicolon) becomes the back. Ideally, you could export all of your Protobowl sessions and import cards into a master "Protobowl" deck!
 
 ## Installation
-I don't have a Chrome Developer Account, so grab the source code from the Releases section and unpack the .zip into a new folder.
+I don't have a Chrome Developer Account, so...
+1. Grab the zip from the Releases section and unpack it into a new folder.
+2. In Chrome, navigate to chrome://extensions and toggle on Developer Mode (upper-right corner). 
+3. Click "Load unpacked" (upper left) and choose the directory you just unzipped the contents into. Protobowl Pro should now be available in your extensions bar! Pin it for maximum convenience.
