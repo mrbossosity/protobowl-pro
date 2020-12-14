@@ -1,5 +1,5 @@
 # Protobowl Pro
-[Protobowl](https://protobowl.com) by [neotenic](https://github.com/neotenic/protobowl) is an online question reader and underappreciaed quiz bowl study tool.
+[Protobowl](https://protobowl.com) by [neotenic](https://github.com/neotenic/protobowl) is an online question reader and (criminally underrated) quiz bowl study tool.
 
 One surefire way to improve at quiz bowl is to "climb the pyramid" through packet study. When reading questions, players mark where they would theoretically buzz on each tossup and memorize the preceding clues. This enables them to get progressively earlier buzzes as their knowledge base grows.
 
